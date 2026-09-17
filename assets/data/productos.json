@@ -8,11 +8,11 @@
   },
   {
     "id": 2,
-    "nombre": "Polera Casual Lana",
+    "nombre": "Polera Casual Perrito",
     "precio": 12990,
     "categoria": "Ropa",
-    "imagen": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=400&auto=format&fit=crop"
-  },
+    "imagen": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=400&auto=format&fit=crop"
+  }
   {
     "id": 3,
     "nombre": "Pantalon Outdoor Trekking",
