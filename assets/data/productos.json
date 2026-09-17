@@ -1,6 +1,30 @@
 [
-  { "id": 1, "nombre": "Mochila Urbana", "precio": 29990, "categoria": "Accesorios", "imagen": "https://picsum.photos/300/200?random=1" },
-  { "id": 2, "nombre": "Polera Casual", "precio": 12990, "categoria": "Ropa", "imagen": "https://picsum.photos/300/200?random=2" },
-  { "id": 3, "nombre": "Chaqueta Cortaviento", "precio": 39990, "categoria": "Ropa", "imagen": "https://picsum.photos/300/200?random=3" },
-  { "id": 4, "nombre": "Zapatillas Sport", "precio": 49990, "categoria": "Calzado", "imagen": "https://picsum.photos/300/200?random=4" }
+  {
+    "id": 1,
+    "nombre": "Mochila Urbana Outdoor",
+    "precio": 29990,
+    "categoria": "Accesorios",
+    "imagen": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "nombre": "Polera Casual Lana",
+    "precio": 12990,
+    "categoria": "Ropa",
+    "imagen": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=400&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "nombre": "Pantalon Outdoor Trekking",
+    "precio": 39990,
+    "categoria": "Ropa",
+    "imagen": "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=400&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "nombre": "Zapatillas Sport",
+    "precio": 49990,
+    "categoria": "Accesorios",
+    "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&auto=format&fit=crop"
+  }
 ]
